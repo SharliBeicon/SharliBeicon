@@ -4,7 +4,7 @@ My name is Carlos Tocino (Charlie Bacon for non-Spanish speakers). I've been in 
 
 - 📚 I'm graduated in computer engineering from University of Cádiz; Co-Founder of Cenware, a project that aims to help small businesses to achieve a successful digital transformation. I'm currently working at [Databeacon](https://databeacon.aero/) as a Software Engineer for their core systems.
 
-- 🌱 Currently mastering my **Rust**🦀 skills and learning **Haskell** for fun
+- 🌱 Currently mastering my **Rust** 🦀 skills and learning **Haskell** 🟪 for fun
 - 📫 I'm open to collaborate in any project, reach me out!! carlostocinocubelo@gmail.com
 - 😄 Pronouns: He/Him
 
