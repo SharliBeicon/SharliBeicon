@@ -8,3 +8,7 @@ My name is Carlos Tocino (Charlie Bacon for non-Spanish speakers). I've been in 
 - 📫 I'm open to collaborate in any project, reach me out!! carlostocinocubelo@gmail.com
 - 😄 Pronouns: He/Him
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharlibeicon&show_icons=true&theme=tokyonight" alt="Sharlibeicon's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharlibeicon&layout=compact&theme=tokyonight&hide=php" alt="Top Languages">
+</div>
