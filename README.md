@@ -4,7 +4,7 @@ My name is Carlos Tocino (Charlie Bacon for non-Spanish speakers). I've been in 
 
 - 📚 I'm graduated in computer engineering from University of Cádiz. Currently working at [Databeacon](https://databeacon.aero/) as a Software Engineer for their core systems.
 
-- 🌱 Currently mastering my **Rust** 🦀 skills.
+- 🌱 Currently working on **Oxify**, a TUI Spotify client written in Rust 🦀
 - 📫 I'm open to collaborate in any project, reach me out!! carlostocinocubelo@gmail.com
 - 😄 Pronouns: He/Him
 
