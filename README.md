@@ -3,6 +3,6 @@
   <br/>
   <div>
     <img style="width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharlibeicon&layout=compact&hide=php,javascript&theme=codeSTACKr" alt="Top Languages">
-    <img style="width: 25%;" src="https://github.com/user-attachments/assets/e2af3093-93e8-47f8-ad0b-c7cf62e08d80" alt="Silence">
+    <img style="width: 30%;" src="https://github.com/user-attachments/assets/e2af3093-93e8-47f8-ad0b-c7cf62e08d80" alt="Silence">
   </div>
 </div>
