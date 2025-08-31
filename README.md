@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://me.charliebacon.dev">
+  <a href="https://charliebacon.dev">
     <img style="width: 50%;" src="https://github.com/user-attachments/assets/e25377c0-2732-4165-8d8e-8defa4952d8b"/>
   </a>
   <h3>This profile is only for professional work, forks and contributions. My side (probably unfinished) projects are in Codeberg ⬇️</h3>
